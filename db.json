@@ -12,7 +12,7 @@
   { "id": 1, "email": "yaganti.ravikumar@gmail.com", "password":"password"}
   ],
   "profile": {
-    "name": "Ravi"
+    "name": "Ravi",
     "profilepic": "https://homepages.cae.wisc.edu/~ece533/images/fruits.png"
   }
 }
