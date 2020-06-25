@@ -9,7 +9,7 @@
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "users": [
-  { "email": "yaganti.ravikumar@gmail.com", password:"password"}
+  { "email": "yaganti.ravikumar@gmail.com", "password":"password"}
   ],
   "profile": {
     "name": "typicode"
